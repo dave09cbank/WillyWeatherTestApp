@@ -1,0 +1,8 @@
+com.willyweather.testproject
+com.willyweather.testproject.data
+com.willyweather.testproject.file
+com.willyweather.testproject.logging
+com.willyweather.testproject.processor
+com.willyweather.testproject.processor.impl
+com.willyweather.testproject.service
+com.willyweather.testproject.service.impl
